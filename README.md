@@ -11,7 +11,7 @@ The BLAST algorithm enables the comparison of nucleotide sequences against the c
 
 2. The 'NCBI_Blast_protein' file outlines the protocol for performing a protein sequence-based search.
    
-3. The 'pubmed_download' file describes how to browse pubmed for data mining.
+3. The 'pubmed_download' file describes how to browse pubmed for data mining (text mining, co-citation analysis, gene interaction analysis).
    
 4. The 'Extract_protseq' describes how to extract protein sequences with ENTREZ, PDB and EXPASY.
    
